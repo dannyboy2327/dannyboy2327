@@ -38,7 +38,7 @@ An android developer in the making!
 
 - [x] Graduate college:heavy_check_mark:
 - [x] Gain experience with Koltin/Java:heavy_check_mark:
-- [x] Get a job as an android developer
+- [x] Get a job as an android developer:heavy_check_mark:
 - [ ] Buy my own house
 - [ ] Help my family with money
 
